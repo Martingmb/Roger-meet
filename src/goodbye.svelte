@@ -44,9 +44,9 @@
 </div>
 {#if showOverlay}  
 <div class="overlay" transition:fade>
-  <h1 class="message"><span>Happy </span>Last day!</h1>
+  <h1 class="message"><span>Happy </span>Last Day!</h1>
   <p class="message">
-    A un individuo increible con grandes ideas, trabajado y amable.
+    A un individuo increible con grandes ideas, gran espiritu de trabajo y lo mas importante amable.
   </p>
   <p class="message">
     Fue un placer conocerte y trabajar contigo, espero tengas mucho exito en el
